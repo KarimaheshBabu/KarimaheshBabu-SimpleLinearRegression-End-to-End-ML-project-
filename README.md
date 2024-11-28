@@ -1,1 +1,1 @@
-# KarimaheshBabu-SimpleLinearRegression-End-to-End-ML-project-
+# SimpleLinearRegression-End-to-End-ML-project-
